@@ -58,73 +58,11 @@
 ## 📚 Currently Learning
 
 ```text
-🌐 Web Development     ███████████████░░░  80%
-⚛️ React               ████████████░░░░░░  65%
-🧠 DSA                 ██████████░░░░░░░░  55%
-🚀 Backend Development ██████░░░░░░░░░░░░  35%
+🌐 Web Development     ███████████░░░░░░░░  55%
+⚛️ React               █████░░░░░░░░░░░░░░  25%
+🧠 DSA                 ████░░░░░░░░░░░░░░░  20%
+🚀 Backend Development ████░░░░░░░░░░░░░░░  20%
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshdhabi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdhabi&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=harshdhabi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshdhabi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🐍 My Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshdhabi/harshdhabi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshdhabi/harshdhabi/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/harshdhabi/harshdhabi/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 💻 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/harshdhabi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshdhabi&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/harshdhabi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=harshdhabi&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> 💡 Replace `YOUR_PROJECT_1` and `YOUR_PROJECT_2` with your actual repository names.
 
 ---
 
@@ -143,20 +81,6 @@
 <a href="https://auth.geeksforgeeks.org/user/harshdt6i8">
 <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="45"/>
 </a>
-&nbsp;&nbsp;
-<a href="mailto:harshdhabi3@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshdhabi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
